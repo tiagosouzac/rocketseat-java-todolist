@@ -1,4 +1,4 @@
-package nlw.tiagosouzac.todolist.user;
+package com.tiagosouzac.todolist.user;
 
 import java.util.UUID;
 

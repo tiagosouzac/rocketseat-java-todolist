@@ -1,4 +1,4 @@
-package nlw.tiagosouzac.todolist.user;
+package com.tiagosouzac.todolist.user;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
