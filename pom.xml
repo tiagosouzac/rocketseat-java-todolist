@@ -8,7 +8,7 @@
 		<version>3.0.11</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>nlw.tiagosouzac</groupId>
+	<groupId>com.tiagosouzac</groupId>
 	<artifactId>todolist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todolist</name>
